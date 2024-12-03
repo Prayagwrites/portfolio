@@ -33,7 +33,7 @@ function App() {
           <div className="project-item">
             <h3>Portfolio [ React + Vite Framework ]</h3>
             <p>Portfolio web-app using React + Vite Framework.</p>
-            <a href="https://github.com/Prayagwrites/PORTFOLIO_react" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/Prayagwrites/portfolio" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
         </div>
       </section>
